@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+; In a Windows command prompt colors does not is in RGB Hex format
+; DWORD is BGR format, e.g. "ColorTable<##>"=dword:00<B><G><R>
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00362a28
+"ColorTable01"=dword:00362a28
+"ColorTable02"=dword:00362a28
+"ColorTable03"=dword:00362a28
+"ColorTable04"=dword:00362a28
+"ColorTable05"=dword:00362a28
+"ColorTable06"=dword:00c1e556
+"ColorTable07"=dword:00362a28
+"ColorTable08"=dword:00362a28
+"ColorTable09"=dword:00362a28
+"ColorTable10"=dword:00362a28
+"ColorTable11"=dword:00362a28
+"ColorTable12"=dword:00362a28
+"ColorTable13"=dword:00362a28
+"ColorTable14"=dword:00362a28
+"ColorTable15"=dword:00362a28
+"ScreenColors"=dword:00c1e556
+"PopupColors"=dword:00362a28
